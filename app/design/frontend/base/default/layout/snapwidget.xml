@@ -1,0 +1,9 @@
+<?xml version="1.0"?>   
+<layout version="0.1.0">   
+    <default>
+        <reference name="head">   
+            <block type="snapwidget/index" name="snapwidget_index" template="snapwidget/index.phtml"/>   
+        </reference>   
+    </default>   
+</layout>   
+	

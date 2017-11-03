@@ -1,0 +1,4 @@
+app/etc/modules/LCB_SnapWidget.xml
+app/code/local/LCB/SnapWidget
+app/design/frontend/base/default/layout/snapwidget.xml
+js/snapwidget/snapwidget.js
